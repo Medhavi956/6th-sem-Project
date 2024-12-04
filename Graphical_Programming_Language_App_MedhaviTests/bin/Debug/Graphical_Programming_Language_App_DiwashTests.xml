@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Graphical_Programming_Language_App_DiwashTests</name>
+    </assembly>
+    <members>
+        <member name="T:Graphical_Programming_Language_App_Diwash.Basic_Commands.Tests.ColorHandlerTests">
+            <summary>
+            Test class for the ColorHandler class.
+            </summary>
+        </member>
+        <member name="M:Graphical_Programming_Language_App_Diwash.Basic_Commands.Tests.ColorHandlerTests.Color_Invalid_test">
+            <summary>
+            Test method for handling an invalid color input.
+            </summary>
+        </member>
+        <member name="M:Graphical_Programming_Language_App_Diwash.Basic_Commands.Tests.ColorHandlerTests.Valid_Color_Test">
+            <summary>
+            Test method for handling a valid color input.
+            </summary>
+        </member>
+        <member name="T:Graphical_Programming_Language_App_Diwash.Basic_Commands.Tests.DrawLineTests">
+            <summary>
+            Test class for the DrawLine class.
+            </summary>
+        </member>
+        <member name="M:Graphical_Programming_Language_App_Diwash.Basic_Commands.Tests.DrawLineTests.Draw_Line_Test_with_both_invalid_parameter">
+            <summary>
+            Test method for drawing a line with both invalid parameters.
+            </summary>
+        </member>
+        <member name="M:Graphical_Programming_Language_App_Diwash.Basic_Commands.Tests.DrawLineTests.Draw_Line_Test_with_one_invalid_parameter">
+            <summary>
+            Test method for drawing a line with one invalid parameter.
+            </summary>
+        </member>
+        <member name="T:Graphical_Programming_Language_App_Diwash.Basic_Commands.Tests.FilledTests">
+            <summary>
+            Test class for the Filled class.
+            </summary>
+        </member>
+        <member name="M:Graphical_Programming_Language_App_Diwash.Basic_Commands.Tests.FilledTests.Filled_Invalid_command_test">
+            <summary>
+            Test method for handling an invalid command input.
+            </summary>
+        </member>
+        <member name="M:Graphical_Programming_Language_App_Diwash.Basic_Commands.Tests.FilledTests.Filled_Valid_commandOff_test">
+            <summary>
+            Test method for handling a valid "off" command input.
+            </summary>
+        </member>
+        <member name="M:Graphical_Programming_Language_App_Diwash.Basic_Commands.Tests.FilledTests.Filled_Valid_commandOn_test">
+            <summary>
+            Test method for handling a valid "on" command input.
+            </summary>
+        </member>
+        <member name="T:Graphical_Programming_Language_App_Diwash.Basic_Commands.Tests.MoveToTests">
+            <summary>
+            Test class for the MoveTo class.
+            </summary>
+        </member>
+        <member name="M:Graphical_Programming_Language_App_Diwash.Basic_Commands.Tests.MoveToTests.Moveto_Test_with_both_invalid_parameter">
+            <summary>
+            Test method for MoveTo with both invalid parameters.
+            </summary>
+        </member>
+        <member name="M:Graphical_Programming_Language_App_Diwash.Basic_Commands.Tests.MoveToTests.Moveto_Test_with_one_Valid_parameter">
+            <summary>
+            Test method for MoveTo with one valid and one invalid parameter.
+            </summary>
+        </member>
+        <member name="T:Graphical_Programming_Language_App_Diwash.Components.Tests.CommandParserTests">
+            <summary>
+            Test class for the CommandParser class.
+            </summary>
+        </member>
+        <member name="M:Graphical_Programming_Language_App_Diwash.Components.Tests.CommandParserTests.CommandParser_Invalid__Calls">
+            <summary>
+            Test method for handling an invalid command.
+            </summary>
+        </member>
+        <member name="M:Graphical_Programming_Language_App_Diwash.Components.Tests.CommandParserTests.CommandParser_ValidMoveToCommand_Withinvalid_pram">
+            <summary>
+            Test method for handling a valid "moveto" command with invalid parameters.
+            </summary>
+        </member>
+        <member name="M:Graphical_Programming_Language_App_Diwash.Components.Tests.CommandParserTests.CommandParser_ValidMoveToCommand_WithValid_pram">
+            <summary>
+            Test method for handling a valid "moveto" command with valid parameters.
+            </summary>
+        </member>
+        <member name="T:Graphical_Programming_Language_App_Diwash.Components.Tests.ProgramHandlerTests">
+            <summary>
+            Test class for the ProgramHandler class.
+            </summary>
+        </member>
+        <member name="M:Graphical_Programming_Language_App_Diwash.Components.Tests.ProgramHandlerTests.ProgramHandler_Invalid__Calls">
+            <summary>
+            Test method for handling an invalid command.
+            </summary>
+        </member>
+        <member name="M:Graphical_Programming_Language_App_Diwash.Components.Tests.ProgramHandlerTests.ProgramHandler_ValidMoveToCommand_Withinvalid_pram">
+            <summary>
+            Test method for handling a valid "moveto" command with invalid parameters.
+            </summary>
+        </member>
+        <member name="M:Graphical_Programming_Language_App_Diwash.Components.Tests.ProgramHandlerTests.ProgramHandler_ValidMoveToCommand_WithValid_pram">
+            <summary>
+            Test method for handling a valid "moveto" command with valid parameters.
+            </summary>
+        </member>
+        <member name="T:Graphical_Programming_Language_App_Diwash.Components.Tests.DrawRectangleTests">
+            <summary>
+            Test class for the DrawRectangle class.
+            </summary>
+        </member>
+        <member name="M:Graphical_Programming_Language_App_Diwash.Components.Tests.DrawRectangleTests.Draw_Rectangle_Test_with_both_invalid_parameter">
+            <summary>
+            Test method to validate handling both invalid width and height parameters.
+            </summary>
+        </member>
+        <member name="M:Graphical_Programming_Language_App_Diwash.Components.Tests.DrawRectangleTests.Draw_Rectangle_Test_with_one_valid_parameter">
+            <summary>
+            Test method to validate handling one valid and one invalid parameter.
+            </summary>
+        </member>
+        <member name="M:Graphical_Programming_Language_App_Diwash.Components.Tests.DrawRectangleTests.Rectangle_test_with_Both_Valid_Parameter">
+            <summary>
+            Test method for handling both valid width and height parameters.
+            </summary>
+        </member>
+        <member name="T:Graphical_Programming_Language_App_Diwash.Shapes.Tests.DrawCircleTests">
+            <summary>
+            Test class for the DrawCircle class.
+            </summary>
+        </member>
+        <member name="M:Graphical_Programming_Language_App_Diwash.Shapes.Tests.DrawCircleTests.Invalid_Circle_parameter_test">
+            <summary>
+            Test method to validate handling an invalid circle parameter.
+            </summary>
+        </member>
+        <member name="M:Graphical_Programming_Language_App_Diwash.Shapes.Tests.DrawCircleTests.DrawCircle_ValidRadius_CircleDrawn">
+            <summary>
+            Test method to verify if a circle is drawn with valid radius and parameters.
+            </summary>
+        </member>
+        <member name="T:Graphical_Programming_Language_App_Diwash.Shapes.Tests.DrawTriangleTests">
+            <summary>
+            Test class for the DrawTriangle class.
+            </summary>
+        </member>
+        <member name="M:Graphical_Programming_Language_App_Diwash.Shapes.Tests.DrawTriangleTests.Invalid_Parameter_DrawTriangleTest">
+            <summary>
+            Test method to validate handling invalid parameters when creating a DrawTriangle object.
+            </summary>
+            <remarks>
+            This test attempts to create a DrawTriangle object with an invalid side length,
+            expecting an ArgumentException to be thrown as the side length provided is invalid for a triangle.
+            </remarks>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,11 @@
+C:\Users\rijal\graphical-programming-language\bin\Debug\Graphical_Programming_Language_App_Medhavi.exe.config
+C:\Users\rijal\graphical-programming-language\bin\Debug\Graphical_Programming_Language_App_Medhavi.xml
+C:\Users\rijal\graphical-programming-language\bin\Debug\Graphical_Programming_Language_App_Medhavi.exe
+C:\Users\rijal\graphical-programming-language\bin\Debug\Graphical_Programming_Language_App_Medhavi.pdb
+C:\Users\rijal\graphical-programming-language\obj\Debug\Graphical_Programming_Language_App_Medhavi.csproj.AssemblyReference.cache
+C:\Users\rijal\graphical-programming-language\obj\Debug\Graphical_Programming_Language_App_Medhavi.Form1.resources
+C:\Users\rijal\graphical-programming-language\obj\Debug\Graphical_Programming_Language_App_Medhavi.Properties.Resources.resources
+C:\Users\rijal\graphical-programming-language\obj\Debug\Graphical_Programming_Language_App_Medhavi.csproj.GenerateResource.cache
+C:\Users\rijal\graphical-programming-language\obj\Debug\Graphical_Programming_Language_App_Medhavi.csproj.CoreCompileInputs.cache
+C:\Users\rijal\graphical-programming-language\obj\Debug\Graphical_Programming_Language_App_Medhavi.exe
+C:\Users\rijal\graphical-programming-language\obj\Debug\Graphical_Programming_Language_App_Medhavi.pdb
